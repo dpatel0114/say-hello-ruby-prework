@@ -6,4 +6,3 @@ end
 
 def say_hello(ruby programmer)
   
-end
